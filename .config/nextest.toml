@@ -15,3 +15,4 @@ path = "junit.xml"
 report-name = "Turbopack tests (Windows)"
 store-success-output = true
 store-failure-output = true
+store-failure-output = true-fix
